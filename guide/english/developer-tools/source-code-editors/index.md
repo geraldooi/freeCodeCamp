@@ -57,7 +57,7 @@ Atom is an <a href='https://github.com/atom/atom' target='_blank' rel='nofollow'
 
 ### Visual Studio Code
 
-![Visual Studio Code Icon](https://logo.clearbit.com/code.visualstudio.com)
+![Visual Studio Code Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png)
 
 Visual Studio Code (a.k.a vsc or vscode) is a very popular, open source editor, developed by <a href="https://www.microsoft.com" target="_blank" rel="nofollow">Microsoft</a> and fast becoming widely used by developers of all languages. Like Atom and Sublime, Visual Studio Code has a wide range of <a href="https://marketplace.visualstudio.com/VSCode" target="_blank" rel="nofollow">extensions</a> and <a href="https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&sortBy=Downloads" target="_blank" rel="nofollow">themes</a> available to help customise and perfect your experience using it, however VSC is highly configurable "out-the-box". There is also a very active development team behind VSCode, with new features and bug fixes being added by the Visual Studio Code team <a href="https://code.visualstudio.com/updates" target="_blank" rel="nofollow">every month</a>.
 
